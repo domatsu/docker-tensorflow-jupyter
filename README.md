@@ -2,7 +2,7 @@
 
 tensorflowのオフィシャルイメージをproxy環境で動作するようにしたもの
 オフィシャルイメージは以下を参照。
-https://hub.docker.com/r/tensorflow/tensorflow/
+https://hub.docker.com/r/tensorflow/tensorflow/  
 https://www.tensorflow.org/install/docker?hl=ja
 
 #### Dockerビルド & 実行
